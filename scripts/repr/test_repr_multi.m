@@ -37,7 +37,6 @@ xlabel('FPR[-]')
 ylabel('TPR[-]')
 
 
-
 %% Multi
 % loop of conditions ((500Hz,30dB), (500Hz,20dB), ...)
 for repr_idx = 1:n_reprs
